@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise-cancellation and long battery life.",
+    "price": 120.99,
+    "isFeatured": true,
+    "img": "https://i.ibb.co/yYmb0wL/1068a957-9125-4f75-8324-c5d6f1c354f1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "description": "Water-resistant smartwatch with heart rate monitor, GPS, and notifications.",
+    "price": 199.99,
+    "isFeatured": false,
+    "img": "https://i.ibb.co/19gXMnn/a99b8e4a-3c32-4eee-a8b1-4f9841c4bd11.webp"
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD Smart TV",
+    "description": "65-inch 4K Smart TV with HDR and streaming services support.",
+    "price": 799.99,
+    "isFeatured": true,
+    "img": "https://i.ibb.co/nw6YbCB/135cf9db-1fd4-49ac-96fe-8c9cfceaac14.webp"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop",
+    "description": "High-performance laptop with NVIDIA graphics and 16GB RAM for gaming.",
+    "price": 1299.99,
+    "isFeatured": false,
+    "img": "https://i.ibb.co/DKZzf5J/e6065dd4-e854-4851-b509-3f771164cfbd.webp"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad compatible with most smartphones.",
+    "price": 29.99,
+    "isFeatured": true,
+    "img": "https://i.ibb.co/Xxc8T87/ea0073c6-01fc-4aff-b984-35fa5aafa5a7-1.webp"
+  }
+]
